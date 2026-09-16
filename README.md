@@ -180,7 +180,7 @@ python-dotenv==1.2.2
 ## 👤 Author
 
 **Aryan Raj**
-- GitHub: [@Himanshusinghyadavup61](https://github.com/aryanrajssm660)
+- GitHub: [@Aryanrajssm660](https://github.com/aryanrajssm660)
 
 ---
 
