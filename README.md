@@ -179,8 +179,8 @@ python-dotenv==1.2.2
 
 ## 👤 Author
 
-**Himanshu Singh Yadav**
-- GitHub: [@Himanshusinghyadavup61](https://github.com/Himanshusinghyadavup61)
+**Aryan Raj**
+- GitHub: [@Himanshusinghyadavup61](https://github.com/aryanrajssm660)
 
 ---
 
